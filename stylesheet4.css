@@ -1,0 +1,50 @@
+body{
+	margin: 0;
+	padding: 0;
+	background-color: black;
+}
+.P{
+	
+	padding-left: 0px;
+}
+.list{
+	list-style: none;
+	
+}
+.P{
+	padding-left: 30px;
+
+}
+ul{
+	list-style:none;
+	border-radius: 40px;
+	height:550px;
+	background-color: lightblue;
+	width:400px;
+	margin-left:500px;
+	float:left;
+	line-height: 30px;
+	margin-top: 50px;
+	position: absolute;
+	text-transform:full-width;
+	text-align:left;
+
+}
+button{
+			
+	background-color: #4CAF50;
+  	border: none;
+ 	color: white;
+ 	padding: 10px 20px;
+ 	text-align: center;
+  	text-decoration: none;
+  	display: inline-block;
+ 	font-size: 12px;
+ 	border-radius: 40px;
+
+
+}
+button:hover{
+	color: black;
+	transition: 0.71s;
+}
